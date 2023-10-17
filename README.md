@@ -19,3 +19,6 @@ Principal component analysis (PCA) is a popular technique for analyzing large da
 **Important Note:** Please go through the dataset once before jumping to the code.
   
 </table>
+
+
+**So what are you waiting for..? Jump to the code to get started. As usual for any doubt or query see you in pull request section 😁😂. Thanks!**
